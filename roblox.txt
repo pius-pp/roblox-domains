@@ -24,6 +24,9 @@ develop.roblox.com
 devforum.roblox.com
 setup.rbxcdn.com
 rbxcdn.com
+css.rbxcdn.com
+ncs.roblox.com
+js.rbxcdn.com
 versioncompatibility.roblox.com
 sitetest.roblox.com
 trades.roblox.com
@@ -196,4 +199,5 @@ cdngs.net
 secure.footprint.net
 secure.llnwd.net
 roblox.qq.com
+
 roblox.cn
