@@ -200,3 +200,6 @@ secure.footprint.net
 secure.llnwd.net
 roblox.qq.com
 roblox.cn
+images.rbxcdn.com
+apis.rbxcdn.com
+ecsv2.roblox.com
